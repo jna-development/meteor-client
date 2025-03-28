@@ -20,7 +20,7 @@
 ## Usage
 
 ### Building
-- Clone this repository
+- Clone this repo
 - Run `./gradlew build`
 
 ### Installation
